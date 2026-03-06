@@ -1,6 +1,6 @@
 # Visualiseur d'Algorithmes de Tri
 
-Soumission individuelle dans le cadre du projet de développement logiciel de groupe.
+Soumission individuelle dans le cadre du projet de développement d'algorithme de tri au saint du groupe GI **EPL/UL**
 
 ---
 
