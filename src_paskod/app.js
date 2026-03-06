@@ -1,3 +1,13 @@
+/*
+    NAME : app.js
+    PURPOSE : Gestion de l'interface et animation visuelle des tris
+              Contrôle du DOM et boucle de rendu asynchrone (async/await)
+              pour libérer le Main Thread entre chaque étape du tri
+    AUTHOR : SEWONOU Pascal
+    CREATED : 04/03/2026
+    UPDATED : 06/03/2026
+ */
+
 const barsContainer = document.getElementById('bars-container');
 const generateBtn = document.getElementById('generate-btn');
 const sortBtn = document.getElementById('sort-btn');
